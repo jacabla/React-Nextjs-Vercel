@@ -36,7 +36,7 @@ export default function Home() {
         </div>
         <div><h2>Bienvenidos al ejemplo de como subir una app en Nextjs</h2>
         <p>Esta app se hizo con un deploy en Vercel</p>
-        <p>Puedes consultar el repositorio en este  <a href='https://github.com/jacabla/React-Nextjs-Vercel' target="_blank" alt="Link repo">---link---</a></p>
+        <p>Puedes consultar el repositorio en este  <a href='https://github.com/jacabla/React-Nextjs-Vercel' target="_blank" rel="noopener noreferrer">---link---</a></p>
         </div>
 
 
